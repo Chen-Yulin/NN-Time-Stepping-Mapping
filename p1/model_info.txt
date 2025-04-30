@@ -1,0 +1,5 @@
+Model Architecture: ResNet
+Input Size: 1024
+Final Training Loss: 0.011136
+Final Testing Loss: 0.008610
+Number of Parameters: 166209

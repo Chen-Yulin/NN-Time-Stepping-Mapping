@@ -1,0 +1,21 @@
+Model Architecture: UNetSVD
+SVD Components: 200
+Input Size: 400 (2 * 200)
+Output Size: 400 (2 * 200)
+Final Training Loss: 0.070779
+Final Testing Loss: 0.013226
+Number of Parameters: 14067088
+Dataset U Explained Variance: 1.0000
+Dataset V Explained Variance: 1.0000
+
+Dataset 0 Error Metrics:
+u_mae: 0.016347
+v_mae: 0.015462
+u_mse: 0.000348
+v_mse: 0.000318
+
+Dataset 1 Error Metrics:
+u_mae: 0.010563
+v_mae: 0.011707
+u_mse: 0.000165
+v_mse: 0.000174
